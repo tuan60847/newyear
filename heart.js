@@ -8,7 +8,7 @@ var settings = {
   },
 };
 
-const text = "Điều đầu tiên chúc m một năm mới thật vui vẻ và thành công nè <3 luôn luôn hạnh phúc nữa nè. Cảm ơn M đã cùng nhau trải qua nhiều việc mà vẫn chọn cách cho nhau sự an toàn nhọ. T chưa bao giờ giờ làm thứ này cho ai cả tuy sến xúa tí nhưng cũng muốn tặng m một tí khả năng và công việc của t. Bất ngờ chưa :v t cũng nhớ bạn một chút là m ở trên đây chắc chắn tôi sẽ dẫn bạn đi xem pháo hoa :V Cũng nhớ m chớ nhưng sẽ gặp sớm thui nhỉ. Chắc chắn sẽ gặp m. T sẽ không bao giờ bỏ m một mình đâu có lẻ t thương m thiệt thương m nhiều hơn m cả t dự kiến nữa đuổi đến đâu cũng không đi hết. Sớm gặp nhau nhé m một năm năm 2024 thật sự vui vẻ, an khang thịnh vượng nè tiền vô như nước nữa cơ chứ.";
+const text = "Điều đầu tiên chúc m một năm mới thật vui vẻ và thành công nè <3 luôn luôn hạnh phúc nữa nè. Cảm ơn M đã cùng nhau trải qua nhiều việc mà vẫn chọn cách cho nhau sự an toàn nhọ. T chưa bao giờ giờ làm thứ này cho ai cả tuy sến xúa tí nhưng cũng muốn tặng m một tí khả năng và công việc của t. Bất ngờ chưa :v t cũng nhớ bạn một chút là m ở trên đây chắc chắn tôi sẽ dẫn bạn đi xem pháo hoa :V Cũng nhớ m chớ nhưng sẽ gặp sớm thui nhỉ. Chắc chắn sẽ gặp m. T sẽ không bao giờ bỏ m một mình đâu có lẻ t thương m thiệt thương m nhiều hơn m cả t dự kiến nữa đuổi đến đâu cũng không đi hết. Sớm gặp nhau nhé m một năm năm 2024 thật sự vui vẻ, an khang thịnh vượng nè tiền vô như nước nữa cơ chứ.People fall in love with a river just because they have not seen the sea, Personally , I see  the whole galaxy but I have some on star in my heart";
 const paragraph = document.getElementById('typed-text');
 const audio = document.getElementById('audio');
 
